@@ -1,0 +1,21 @@
+{
+  "short_name": "Gasby",
+  "name": "Gasby",
+  "description": "Your Fancy AI Personal Assistant. A ChatGPT alternative, powered by OpenAI API, support Claude, OpenRouter, Azure and custom providers",
+  "icons": [
+    {
+      "src": "assets/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#121213",
+  "background_color": "#ffffff"
+}
